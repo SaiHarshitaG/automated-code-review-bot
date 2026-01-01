@@ -1,0 +1,13 @@
+.page {
+  padding: 24px;
+}
+
+.page h1 {
+  margin-bottom: 16px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 16px;
+}

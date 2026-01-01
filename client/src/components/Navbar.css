@@ -1,0 +1,19 @@
+.navbar {
+  height: 60px;
+  background: var(--card);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+}
+
+.navbar nav a {
+  margin-left: 20px;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.navbar nav a:hover {
+  color: var(--primary);
+}

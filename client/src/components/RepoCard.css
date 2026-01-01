@@ -1,0 +1,11 @@
+.repo-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  padding: 16px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.repo-card:hover {
+  border-color: var(--primary);
+}
