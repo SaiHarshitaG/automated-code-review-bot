@@ -24,3 +24,9 @@ An AI-powered code review system that integrates with GitHub to automatically an
 cd server
 npm install
 npm run dev
+
+### Frontend
+```bash
+cd client
+npm install
+npm run dev
