@@ -19,14 +19,12 @@ An AI-powered code review system that integrates with GitHub to automatically an
 
 ## ▶️ Running Locally
 
-### Backend
+### Backend AND Frontend
 ```bash
 cd server
 npm install
 npm run dev
 
-### Frontend
-```bash
 cd client
 npm install
 npm run dev
